@@ -18,3 +18,7 @@
 ## Poultry
 
 - [Smoked Turkey](./poultry/smoked-turkey.md)
+
+## Fish
+
+- [Cold Smoked Salmon](./fish/cold-smoked-salmon.md)

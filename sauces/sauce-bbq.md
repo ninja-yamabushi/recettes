@@ -41,6 +41,13 @@ Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs d
 | :----------: | :---------: | :------------- | :-----------: |
 |     170      |     ml      | Tomato paste   |     1360      |
 
+*Smoke Ingredients*
+
+| **Quantity** | **Measure** | **Ingredient** |
+| :----------: | :---------: | :------------- |
+|      1       |    part     | Mesquite       |
+|      1       |    part     | Cherry         |
+
 ---
 
 ## Steps
@@ -63,14 +70,7 @@ Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs d
 
 ### Smoking
 
-#### Smoke
-
-- 1 cup Mesquite
-- 1 cup Cherry
-
-#### Process
-
-- Put in an aluminium container, in the bbq at low temp with smoke
+- Put sauce in an aluminium container, in the bbq at low temp (250°) with smoke
 - Mix in the smoke every 30 minutes
-- Do this for a couple of hours
+- Do this for a few of hours
   
