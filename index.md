@@ -4,16 +4,17 @@
 
 ## Sauces
 
-- [BBQ](./sauces/bbq.md) 
+- [BBQ](./sauces/sauce-bbq.md)
 
 ## Pork
 
-- [Smoked St-Louis Style Ribs](./pork/bbq.md) 
+- [Smoked Baby Back Ribs](./pork/smoked-ribs-babyback.md)
+- [Smoked St-Louis Style Ribs](./pork/smoked-ribs-st-louis.md)
 
 ## Beef
 
-- [Smoked Texas Style Brisket](./beef/bbq.md) 
+- [Smoked Brisket](./beef/smoked-brisket.md)
 
 ## Poultry
 
-- [Smoked Turkey](./beef/bbq.md) 
+- [Smoked Turkey](./poultry/smoked-turkey.md)
