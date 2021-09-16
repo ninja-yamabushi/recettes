@@ -3,7 +3,7 @@
 ---
 
 Recette pour une dinde de 12-15 lbs  
-Laisser dégeler la dinde au réfrigérateur 2-3 jours
+Laisser dégeler la dinde au réfrigérateur 3 jours
 
 ---
 
@@ -54,40 +54,47 @@ Laisser dégeler la dinde au réfrigérateur 2-3 jours
 
 ### Brinning (The day before)
 
-- Mix the 'brine ingredients' into a large pot
-- Put the turkey into the pot making sure it is submerged
+- Clean (entrailles), drain and rince the turkey
+- Put the turkey into a large container
+- Mix the 'brine ingredients' into a large pot and pour in the container
 - Add water if required
 - Put something on top to make sure it stays submerged
+- Put in the fridge overnight
 
-### Preparation
-
-- Clean, drain and rince the turkey
-- Cut 'stuffing ingredients'
-- Put 'stuffing ingredients' into the cavity
-- Rub the turkey with a little vegetable oil
-- Tie the legs so they don't dry up
-
-### Setup
+### BBQ Setup
 
 - Make a heat shield
-- Cut the bottom and fromt of an aluminium roasting pan
+- Cut the bottom and front of an aluminium roasting pan
 - Take out one of the 'grille'
 - Place a pan with water under where the turkey will be cooked
 - Pre-heat BBQ at 350°
+
+### Meat Preparation
+
+- Clean and rinse the turkey
+- Cut 'stuffing ingredients'
+- Put 'stuffing ingredients' into the cavity
+- Rub the turkey with a little vegetable oil
+- *optional* Add a little poultry spices
+- Tie the legs and put the wings under so they don't dry up
 
 ### Cooking
 
 - Place the turkey (indirect heat)
 - Place the heatshield around the turkey
-- Check every hours, switch the turkey side
-  - *Will take at least 4-5 hours*
+- Check every hours, turn or shift the turkey
+  - *Will take about 4-5 hours*
   - *If it becomes to dark, lightly place an aluminium sheet on top*
 
 ### Readyness
 
 - Take out at 150° in the breast
-- Wrap in foil  dans du foil et attendre
+- Wrap in foil
 - Let rest for 30 minutes (or breast at 165° and legs at 175°)
+
+## Cook’s Note
+
+- Take the temp far from the burner
 
 ## References
 
