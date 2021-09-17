@@ -26,7 +26,7 @@ Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs d
 | **Quantity** | **measure** | **Ingredient**      | **Big batch** |
 | :----------: | :---------: | :------------------ | :-----------: |
 |     1/4      |     cup     | Apple cider vinager |       2       |
-|      2       |     cup     | Water               |      14       |
+|      2       |     cup     | Water               |      12       |
 
 *Viscous Ingredients*  
 
