@@ -82,7 +82,7 @@ Recette pour 2 rack de ribs
 - Mettre les ribs dans le rack à ribs
 - Fumer pour au moins 3 heures
 - Fair la sauce en attendant
-- Internal temp should be 175°-180° or bones twists easily
+- Internal temp should be 185° or bones twists easily
 
 ### Glazing
 
@@ -95,6 +95,8 @@ Recette pour 2 rack de ribs
 - Bring the liquid to a simmer and reduce by half or until of a thick syrup consistency
 - Après épaississement, ajouter la moutarde comme agent liant
   - *ne pas ramener à ébullition après*
+- Internal temp should be 200°
+- Let rest to +/- 150°
 
 ## Cook’s Note
 

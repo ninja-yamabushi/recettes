@@ -10,6 +10,7 @@
 
 - [Smoked Baby Back Ribs](./pork/smoked-ribs-babyback.md)
 - [Smoked St-Louis Style Ribs](./pork/smoked-ribs-st-louis.md)
+- [Smoked Pulled Pork](./pork/smoked-pulled-pork.md)
 
 ## Beef
 
