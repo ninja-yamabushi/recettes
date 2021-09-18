@@ -103,7 +103,7 @@ Recette pour 2 rack de ribs
 - This recipe makes several batches of dry rub
 - If more rub is needed, it can be extended by any amount, as long as the ratio of 8:3:1:1 remains the same
 
-## References
+### References
 
 - [Alton Brown - Video](https://www.youtube.com/watch?v=zQ2nL7VGOFs)
 - [Alton Brown - Details](https://www.foodnetwork.com/recipes/alton-brown/who-loves-ya-baby-back-recipe-1937448)
