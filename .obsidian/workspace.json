@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sauces/Honey Glaze.md",
+                "file": "pork/smoked-pulled-pork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Honey Glaze"
+              "title": "smoked-pulled-pork"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +181,10 @@
   },
   "active": "ab113ffd030d02ce",
   "lastOpenFiles": [
-    "sauces/BBQ Sauce.md",
+    "fish/Cold Smoked Salmon.md",
+    "beef/Smoked Brisket.md",
+    "index.md",
     "sauces/Honey Glaze.md",
-    "index.md"
+    "sauces/BBQ Sauce.md"
   ]
 }

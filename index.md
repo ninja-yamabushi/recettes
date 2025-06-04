@@ -13,7 +13,7 @@
 
 ## Beef
 
-- [Smoked Brisket](./beef/smoked-brisket.md)
+- [Smoked Brisket](Smoked%20Brisket.md)
 
 ## Poultry
 
@@ -21,7 +21,7 @@
 
 ## Fish
 
-- [Cold Smoked Salmon](./fish/cold-smoked-salmon.md)
+- [Cold Smoked Salmon](Cold%20Smoked%20Salmon.md)
 
 ## Woods
 
