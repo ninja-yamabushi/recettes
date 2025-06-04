@@ -1,6 +1,4 @@
-# BBQ Sauce
-
----
+----
 
 Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs de bien se mélanger
 

@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50b9c913a2c20453",
+        "id": "0ccbe185a5b75f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "c6f3758959584e2a",
+            "id": "ab113ffd030d02ce",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "sauces/Honey Glaze.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "Honey Glaze"
             }
           }
         ]
@@ -180,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f3758959584e2a",
+  "active": "ab113ffd030d02ce",
   "lastOpenFiles": [
-    "index.md",
+    "sauces/BBQ Sauce.md",
     "sauces/Honey Glaze.md",
-    "sauces/sauce-bbq.md"
+    "index.md"
   ]
 }

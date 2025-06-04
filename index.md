@@ -4,8 +4,6 @@
 
 ## Sauces
 
-- [BBQ](./sauces/sauce-bbq.md)
-- [[Honey Glaze]]
 
 ## Pork
 
