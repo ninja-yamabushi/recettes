@@ -1,4 +1,5 @@
-----
+
+---
 *Takes about 2 days (overnight brine + 12h smoke +1h rest)*
 
 

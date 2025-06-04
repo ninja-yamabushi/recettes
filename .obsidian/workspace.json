@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pork/smoked-pulled-pork.md",
+                "file": "pork/Smoked St-Louis Ribs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "smoked-pulled-pork"
+              "title": "Smoked St-Louis Ribs"
             }
           }
         ]
@@ -181,8 +181,11 @@
   },
   "active": "ab113ffd030d02ce",
   "lastOpenFiles": [
-    "fish/Cold Smoked Salmon.md",
+    "pork/Smoked Pulled Pork.md",
+    "pork/Smoked Baby Back Ribs.md",
     "beef/Smoked Brisket.md",
+    "pork/Smoked St-Louis Ribs.md",
+    "fish/Cold Smoked Salmon.md",
     "index.md",
     "sauces/Honey Glaze.md",
     "sauces/BBQ Sauce.md"
