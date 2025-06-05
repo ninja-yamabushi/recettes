@@ -4,7 +4,10 @@ Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs d
 
 ---
 
+
 ## Ingredients (à faire à l'avance)
+---
+---
 
 *Dry Ingredients*  
 
@@ -35,21 +38,21 @@ Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs d
 
 *The Base*  
 
-| **Quantity** | **measure** | **Ingredient** | **Big batch** |
-| :----------: | :---------: | :------------- | :-----------: |
-|     170      |     ml      | Tomato paste   |     1360      |
+| **Quantity** | Quantity (x2) | **Measure** | **Ingredient** |
+| :----------: | :-----------: | :---------: | :------------- |
+|     170      |      340      |     ml      | Tomato paste   |
 
 *Smoke Ingredients*
 
-| **Quantity** | **Measure** | **Ingredient** |
-| :----------: | :---------: | :------------- |
-|      1       |    part     | Mesquite       |
-|      1       |    part     | Cherry         |
+| **Quantity** | Quantity (x2) | **Measure** | **Ingredient** |
+| :----------: | :-----------: | :---------: | :------------- |
+|      1       |       2       |    part     | Mesquite       |
+|      1       |       2       |    part     | Cherry         |
 
----
 
 ## Steps
-
+---
+---
 ### Preparation
 
 - Mix the 'dry ingredients' into a small bowl, making sure that there is not chuncks
