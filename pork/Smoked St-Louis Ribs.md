@@ -1,6 +1,6 @@
 
 ---
-*Takes about 2 days (sauce overnight + )*
+*Takes about 2 days (sauce overnight + 6h smoke and rest)*
 
 ## Notes
 ---

@@ -17,7 +17,7 @@
 
 ## Poultry
 
-- [Smoked Turkey](./poultry/smoked-turkey.md)
+- [Smoked Turkey](Smoked%20Turkey.md)
 
 ## Fish
 
