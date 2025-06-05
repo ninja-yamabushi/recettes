@@ -55,8 +55,8 @@
 ---
 ### Preparation
 
-- Mix the 'dry ingredients' into a small bowl, making sure that there is not chuncks
-- Mix the 'wet ingredients' into a lage measuring cup
+- Mix the 'dry ingredients' into a small bowl, making sure that there is not chunks
+- Mix the 'wet ingredients' into a large measuring cup
 - Mix the 'viscous ingredients' into a small measuring cup
 
 ### Cooking
