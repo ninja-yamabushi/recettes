@@ -1,6 +1,6 @@
 
 ---
-*Takes about3-4 days ()*
+*Takes about 3-4 days (cook + rest overnight + 2-3h smoke)*
 
 > Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs de bien se mélanger
 
@@ -61,9 +61,11 @@
 
 ### Cooking
 
-- In a lage pan, cook down the tomato paste, until we almost have a fond and starting to loose the 'raw taste'
-- Add the 'dry ingredients' and fold them in, keep cooking until we get a fond
-- Deglase with the 'wet ingredients' and mix well
+- In a large pan cook down the tomato paste
+	- until we almost have a fond and starting to loose the 'raw taste'
+- Add the 'dry ingredients'
+	- and fold them in, keep cooking until we get a fond
+- Deglaze with the 'wet ingredients' and mix well
 - Incorporate the 'viscous ingredients'
 - Bring to a boil at medium  
 - Reduce heat and simmer until right consistency, stir often
