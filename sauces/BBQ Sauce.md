@@ -8,30 +8,30 @@ Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs d
 
 *Dry Ingredients*  
 
-| **Quantity** | **Measure** | **Ingredient** | **Big batch** |
-| :----------: | :---------: | :------------- | :-----------: |
-|     1/8      |     ts      | Cayenne Pepper |       1       |
-|     1/2      |     ts      | Salt           |       4       |
-|     1/2      |     ts      | Black Pepper   |       4       |
-|      1       |     ts      | Garlic Powder  |       8       |
-|      1       |     ts      | Onion Powder   |       8       |
-|      1       |     ts      | Chili Powder   |       8       |
-|      1       |     ts      | Paprika        |       8       |
-|      1       |     tbs     | Brown Sugar    |       8       |
+| **Quantity** | Quantity (x2) | **Measure** | **Ingredient** |
+| :----------: | :-----------: | :---------: | :------------- |
+|     1/8      |      1/4      |     ts      | Cayenne Pepper |
+|     1/2      |       1       |     ts      | Salt           |
+|     1/2      |       1       |     ts      | Black Pepper   |
+|      1       |       2       |     ts      | Garlic Powder  |
+|      1       |       2       |     ts      | Onion Powder   |
+|      1       |       2       |     ts      | Chili Powder   |
+|      1       |       2       |     ts      | Paprika        |
+|      1       |       2       |     tbs     | Brown Sugar    |
 
 *Liquid Ingredients*  
 
-| **Quantity** | **measure** | **Ingredient**      | **Big batch** |
-| :----------: | :---------: | :------------------ | :-----------: |
-|     1/4      |     cup     | Apple cider vinager |       2       |
-|      2       |     cup     | Water               |      12       |
+| **Quantity** | Quantity (x2) | **Measure** | **Ingredient**      |
+| :----------: | :-----------: | :---------: | :------------------ |
+|     1/4      |      1/2      |     cup     | Apple cider vinager |
+|      2       |       4       |     cup     | Water               |
 
 *Viscous Ingredients*  
 
-| **Quantity** | **measure** | **Ingredient** | **Big batch** |
-| :----------: | :---------: | :------------- | :-----------: |
-|     1/4      |     cup     | Honey          |       2       |
-|      2       |     tbs     | Molasse        |      16       |
+| **Quantity** | Quantity (x2) | **Measure** | **Ingredient** |
+| :----------: | :-----------: | :---------: | :------------- |
+|     1/4      |      1/2      |     cup     | Honey          |
+|      2       |       4       |     tbs     | Molasse        |
 
 *The Base*  
 
