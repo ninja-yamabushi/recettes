@@ -3,13 +3,13 @@
 ---
 
 ## Sauces
-
+- [[BBQ Sauce]]
+- [[Honey Glaze]]
 
 ## Pork
-
-- [Smoked Baby Back Ribs](Smoked%20Baby%20Back%20Ribs.md)
-- [Smoked St-Louis Style Ribs](Smoked%20St-Louis%20Ribs.md)
-- [Smoked Pulled Pork](Smoked%20Pulled%20Pork.md)
+- [[Smoked Baby Back Ribs]]
+- [[Smoked Pulled Pork]]
+- [[Smoked St-Louis Ribs]]
 
 ## Beef
 
