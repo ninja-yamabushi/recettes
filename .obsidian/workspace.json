@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sauces/BBQ Sauce.md",
+                "file": "sauces/Smoked BBQ Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BBQ Sauce"
+              "title": "Smoked BBQ Sauce"
+            }
+          },
+          {
+            "id": "399d1380416ea9ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pork/Smoked Bacon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smoked Bacon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,10 @@
       "print:Print note": false
     }
   },
-  "active": "732f17d64f1cfa3e",
+  "active": "399d1380416ea9ea",
   "lastOpenFiles": [
+    "sauces/Smoked BBQ Sauce.md",
+    "pork/Smoked Bacon.md",
     "index.md",
     "wood/Choices of wood.md",
     "poultry/Smoked Turkey.md",
@@ -190,7 +207,6 @@
     "pork/Smoked Baby Back Ribs.md",
     "fish/Cold Smoked Salmon.md",
     "beef/Smoked Brisket.md",
-    "sauces/BBQ Sauce.md",
     "sauces/Honey Glaze.md"
   ]
 }

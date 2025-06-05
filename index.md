@@ -3,7 +3,7 @@
 ---
 
 ## Sauces
-- [[BBQ Sauce]]
+- [[Smoked BBQ Sauce]]
 - [[Honey Glaze]]
 
 ## Pork
