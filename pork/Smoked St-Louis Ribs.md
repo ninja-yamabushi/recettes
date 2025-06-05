@@ -1,6 +1,6 @@
 
 ---
-*Takes about ()*
+*Takes about 2 days (sauce overnight + )*
 
 ## Notes
 ---
