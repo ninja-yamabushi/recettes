@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sauces/BBQ Sauce.md",
+                "file": "pork/Smoked St-Louis Ribs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BBQ Sauce"
+              "title": "Smoked St-Louis Ribs"
             }
           }
         ]
@@ -176,18 +176,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "print:Print note": false
     }
   },
   "active": "ab113ffd030d02ce",
   "lastOpenFiles": [
+    "pork/Smoked Pulled Pork.md",
     "pork/Smoked Baby Back Ribs.md",
+    "fish/Cold Smoked Salmon.md",
+    "beef/Smoked Brisket.md",
+    "sauces/BBQ Sauce.md",
     "index.md",
     "pork/Smoked St-Louis Ribs.md",
-    "pork/Smoked Pulled Pork.md",
-    "beef/Smoked Brisket.md",
-    "fish/Cold Smoked Salmon.md",
-    "sauces/Honey Glaze.md",
-    "sauces/BBQ Sauce.md"
+    "sauces/Honey Glaze.md"
   ]
 }

@@ -1,8 +1,10 @@
-----
+
+---
 *Takes about 1 day (no overnight required)*
 
 > Fait avec de l'épaule (avec l'os)  
 > Compter environ 1 heure de cuisson par livre
+
 
 ## Ingredients
 ---

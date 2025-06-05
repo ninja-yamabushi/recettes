@@ -2,8 +2,8 @@
 ---
 *Takes about ()*
 
-Notes: 
-========================================
+## Notes
+---
 https://www.napoleon.com/en/us/grills/blog/why-you-should-cook-your-ribs-past-done-how-know-when-theyre-ready
 1.
 	Ideally, you will smoke or slow roast your ribs using the 3-2-1 technique. 
