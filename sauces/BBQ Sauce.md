@@ -1,11 +1,11 @@
 
 ---
-Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs de bien se mélanger
+*Takes about3-4 days ()*
 
----
+> Idéalement préparer deux jours à l'avance pour laisser le temps aux saveurs de bien se mélanger
 
 
-## Ingredients (à faire à l'avance)
+## Ingredients
 ---
 ---
 

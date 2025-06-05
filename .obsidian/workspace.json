@@ -11,10 +11,14 @@
             "id": "732f17d64f1cfa3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sauces/BBQ Sauce.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BBQ Sauce"
             }
           }
         ]
