@@ -1,6 +1,6 @@
 
 ---
-*Takes about ()*
+*Takes about 2 days (brine overnight + 6h smoke and rest)*
 
 Recette pour une dinde de 12-15 lbs  
 Laisser dégeler la dinde au réfrigérateur 3 jours
@@ -52,7 +52,8 @@ Laisser dégeler la dinde au réfrigérateur 3 jours
 - Aluminium roasting pan
 
 ## Steps
-
+---
+---
 ### Brinning (The day before)
 
 - Clean (entrailles), drain and rince the turkey

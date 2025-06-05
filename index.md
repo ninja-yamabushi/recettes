@@ -13,16 +13,16 @@
 
 ## Beef
 
-- [Smoked Brisket](Smoked%20Brisket.md)
+- [[Smoked Brisket]]
 
 ## Poultry
 
-- [Smoked Turkey](Smoked%20Turkey.md)
+- [[Smoked Turkey]]
 
 ## Fish
 
-- [Cold Smoked Salmon](Cold%20Smoked%20Salmon.md)
+- [[Cold Smoked Salmon]]
 
 ## Woods
 
-- [Misc](./wood/info.md)
+- [[Choices of wood]]

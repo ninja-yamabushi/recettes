@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ccbe185a5b75f4a",
+        "id": "eef5c9fa2322e333",
         "type": "tabs",
         "children": [
           {
-            "id": "ab113ffd030d02ce",
+            "id": "732f17d64f1cfa3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "poultry/Smoked Turkey.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Smoked Turkey"
+              "title": "New tab"
             }
           }
         ]
@@ -180,15 +176,17 @@
       "print:Print note": false
     }
   },
-  "active": "ab113ffd030d02ce",
+  "active": "732f17d64f1cfa3e",
   "lastOpenFiles": [
+    "index.md",
+    "wood/Choices of wood.md",
+    "poultry/Smoked Turkey.md",
     "pork/Smoked St-Louis Ribs.md",
     "pork/Smoked Pulled Pork.md",
     "pork/Smoked Baby Back Ribs.md",
     "fish/Cold Smoked Salmon.md",
     "beef/Smoked Brisket.md",
     "sauces/BBQ Sauce.md",
-    "index.md",
     "sauces/Honey Glaze.md"
   ]
 }
