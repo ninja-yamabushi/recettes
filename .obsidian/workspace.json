@@ -11,10 +11,14 @@
             "id": "f284556539977537",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pork - smoked/Smoked St-Louis Ribs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Smoked St-Louis Ribs"
             }
           }
         ]

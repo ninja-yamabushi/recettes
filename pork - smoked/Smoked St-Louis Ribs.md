@@ -1,6 +1,6 @@
 
 ---
-*Takes about 2 days (sauce overnight + 6h smoke and rest)*
+*Takes about 1 day (about 6h cook and rest)*
 
 
 ## Ingrédients
