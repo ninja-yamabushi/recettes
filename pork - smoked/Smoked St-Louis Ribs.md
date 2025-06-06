@@ -7,46 +7,31 @@
 ---
 ---
 *Meat*
-2 pork spare ribs st-louis cut
+
+- 2 pork spare ribs st-louis cut
 
 
 *Rub*
-Same as regular rubs
+- Same as regular rubs
 
 
-*Sauce - faire 2 jour à l'avance*
-
-| Quantity | Measure | Ingredient          |
-| -------- | :-----: | ------------------- |
-| 170      |   ml    | Tomato paste        |
-| 1/4      |   cup   | Apple cider vinager |
-| 1/4      |   cup   | Honey               |
-| 2        |   tbs   | Molasse             |
-| 1/2      |   ts    | Salt                |
-| 1/2      |   ts    | Pepper              |
-| 1        |   ts    | Garlic powder       |
-| 1        |   ts    | Onion powder        |
-| 1        |   ts    | Chili powder        |
-| 1        |   ts    | Paprika             |
-| 1        |   tbs   | Brown sugar         |
-| 1/8      |   ts    | Cayenne             |
-| 1        |   cup   | Water               |
-
-Bring to a boil at medium
-Reduce heat and simmer until right consistency, stir often
-Let rest in fridge overnight
-Cook the ingredient to loose the 'raw taste' if still present
+*Sauce*
+- Voir [[Smoked BBQ Sauce]]
 
 
 *Sprits*
-(Apple cider vinegar, honey + mix) 
+- Apple cider vinegar & honey mixture 
 or
-(Apple juice/cider mixture)
+- Apple juice & cider mixture
+
 
 
 *Boucane*
-3 Cherry
-1 Hickory
+
+| Ratio | Wood    |
+| ----- | ------- |
+| 1     | Hickory |
+| 3     | Cherry  |
 
 
 ## Steps
