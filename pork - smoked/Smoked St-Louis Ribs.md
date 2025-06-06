@@ -30,8 +30,8 @@ or
 
 | Ratio | Wood    |
 | ----- | ------- |
-| 1     | Hickory |
 | 3     | Cherry  |
+| 1     | Hickory |
 
 
 ## Steps
@@ -39,27 +39,27 @@ or
 ---
 ### Preparation
 - use paper towel to dry the meat
-- Leave the membrane ?
-- Apply binder (mustard, oil, ?)
+- Ideally remove the membrane
+- Apply binder (mustard or vegetable oil)
 - Apply rub
 
+### BBQ Setup
 - Setup thermometers 
-- Setup water pan ?
-- Setup sauce pan for smoking (mix often?)
-
+- Setup water pan
 - Smoke at 250°-300°
 	- Major : Cherry  (75%)
 	- Minor : Hickory (25%)
 
-	- About 3 hours
-	- Basting ? only if looks dry and make smoke stick
-		- Water ? Mix ? (Apple cider vinegar, honey + mix) (apple juice/cider mixture)
+### Cooking
+- About 3 hours
+- Spritz (Only if looks dry and make smoke sticky + mix) (apple juice/cider mixture)
 
-- Check for readyness
-	- Is flexing
-	- Bones are exposed
-	- Can twist bones
-	
+### Readyness
+- Is flexing
+- Bones are exposed
+- Can twist bones
+
+
 - Take out at 185°
 	- Apply sauce+melting butter?
 		- Rib1 (sweet)  : put brown sugar on foil, put honey on brown sugar, meat side down, add rub on bones
