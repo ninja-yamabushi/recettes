@@ -8,11 +8,11 @@
 ---
 *Meat*
 
-- 2 pork spare ribs st-louis cut
+- pork spare ribs st-louis cut
 
 
 *Rub*
-- Same as regular rubs
+- Same as regular ribs rub
 
 
 *Sauce*
@@ -24,6 +24,14 @@
 or
 - Apple juice & cider mixture
 
+
+*Glaze*
+
+| Name   | Information                                                                         |
+| ------ | ----------------------------------------------------------------------------------- |
+| Sweet  | put brown sugar on foil, put honey on brown sugar, meat side down, add rub on bones |
+| Beurre | sauce, beurre fondu, meat side down                                                 |
+| Savory | rub + fitz                                                                          |
 
 
 *Boucane*
@@ -37,13 +45,13 @@ or
 ## Steps
 ---
 ---
-### Preparation
+### Meat Preparation
 - use paper towel to dry the meat
 - Ideally remove the membrane
 - Apply binder (mustard or vegetable oil)
 - Apply rub
 
-### BBQ Setup
+### BBQ Preparation
 - Setup thermometers 
 - Setup water pan
 - Smoke at 250°-300°
@@ -51,33 +59,29 @@ or
 	- Minor : Hickory (25%)
 
 ### Cooking
+- Meat up
 - About 3 hours
 - Spritz (Only if looks dry and make smoke sticky + mix) (apple juice/cider mixture)
 
-### Readyness
+### Readiness
 - Is flexing
 - Bones are exposed
 - Can twist bones
-
-
 - Take out at 185°
-	- Apply sauce+melting butter?
-		- Rib1 (sweet)  : put brown sugar on foil, put honey on brown sugar, meat side down, add rub on bones
-		- Rib2 (beurre) : sauce, beurre fondu, meat side down
-		- Rib3 (savory) : rub + fitz
-	- Wrap in foil **foil, roll middle edge and then ends
 
+### Glazing
+- Apply your glaze of choice
+- Wrap in foil **foil, roll middle edge and then ends
 - Put back in bbq (meat down)
 	- About 2 hours
+	- Take out at 200°
+		- get out of foil
 
-- Take out at 200°
-	- get out of foil
-	//- sauce 1: no sugar, mustartd sauce, meat side
-	//- sauce 2: tomato based, typical type of tomatoes based sauce... meat side
-
+### Sauce
+- Add sauce both side (only for savory glaze)
 - Put back in bbq (indirect)
-	- With sauce (only Rib3)
-	- About 1 hour ?
+- About 1 hour ?
 
+### Finish
 - Let cool to 150°?
 - Cut bone side up
