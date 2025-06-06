@@ -48,13 +48,13 @@ Laisser dégeler la dinde au réfrigérateur 3 jours
 
 ## Other 'Ingredients'
 
-- Big brinning container
+- Big brining container
 - Aluminium roasting pan
 
 ## Steps
 ---
 ---
-### Brinning (The day before)
+### Brining (The day before)
 
 - Clean (entrailles), drain and rince the turkey
 - Put the turkey into a large container
