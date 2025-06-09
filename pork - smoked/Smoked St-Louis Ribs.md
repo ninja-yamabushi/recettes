@@ -12,11 +12,11 @@
 
 
 *Rub*
-- Same as regular ribs rub
+- [[Dry Rub]]
 
 
 *Sauce*
-- Voir [[Smoked BBQ Sauce]]
+- [[Smoked BBQ Sauce]]
 
 
 *Sprits*
@@ -55,8 +55,6 @@ or
 - Setup thermometers 
 - Setup water pan
 - Smoke at 250°-300°
-	- Major : Cherry  (75%)
-	- Minor : Hickory (25%)
 
 ### Cooking
 - Meat up
