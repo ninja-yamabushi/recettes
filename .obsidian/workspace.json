@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d38c02038f8cfffe",
+        "id": "60f5fe66849d6f30",
         "type": "tabs",
         "children": [
           {
-            "id": "115c292f76ea1e02",
+            "id": "62950019ed34c8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sauces & rubs/Dry Rub.md",
+                "file": "pork - smoked/Smoked Bacon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dry Rub"
+              "title": "Smoked Bacon"
             }
           }
         ]
@@ -180,7 +180,7 @@
       "print:Print note": false
     }
   },
-  "active": "115c292f76ea1e02",
+  "active": "62950019ed34c8af",
   "lastOpenFiles": [
     "pork - smoked/Smoked St-Louis Ribs.md",
     "sauces & rubs/Dry Rub.md",
