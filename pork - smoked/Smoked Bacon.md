@@ -55,7 +55,7 @@
 	- Pan of water bellow meat
 	- Hickory 
 	- 165°F
-- Place meat on a rack and squish it
+- Place meat on a rack and squish it (meat up)
 - Place a probe in the meat
 - Rotate every hour
 - Done when meat is no more than 120°F (+/- 3 hours ?)
