@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.10"
             }
+          },
+          {
+            "id": "3b8816e278e830d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "print:Print note": false
     }
   },
-  "active": "519ceb3ca36cc185",
+  "active": "3b8816e278e830d5",
   "lastOpenFiles": [
     "pork - smoked/Smoked Bacon.md",
     "pork - smoked/Smoked St-Louis Ribs.md",
