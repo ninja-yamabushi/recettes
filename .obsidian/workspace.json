@@ -37,16 +37,30 @@
             "id": "3b8816e278e830d5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "poultry - smoked/Smoked Turkey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smoked Turkey"
+            }
+          },
+          {
+            "id": "aea83a0674605d94",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.9.12"
+                "currentVersion": "1.9.14"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Release Notes 1.9.14"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +220,7 @@
       "print:Print note": false
     }
   },
-  "active": "3b8816e278e830d5",
+  "active": "aea83a0674605d94",
   "lastOpenFiles": [
     "pork - smoked/Smoked Bacon.md",
     "pork - smoked/Smoked St-Louis Ribs.md",
